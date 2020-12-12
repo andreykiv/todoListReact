@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    
+    color: black;
+    width: 80%;
+    margin: auto;
+}
+
+.container{
+    padding: 0 1rem;
+}
+
+.btn {
+    display: inline-block;
+    border: 2px dashed red;
+    background: salmon;
+    color: #fff;
+    padding: 7px 20px;
+    cursor: pointer;
+    
+}
+
+.btn:hover{
+    background: orange;
+}
